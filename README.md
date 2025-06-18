@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Abdullah Durrani 👋</h1>
-<p align="center">🌟 Power BI Developer | Data Analyst | Agentic AI Explorer | Cloud & Big Data  🌟</p>
+<p align="center">🌟  Dealing with Data Science Power BI  | Data Analysis | Agentic AI  | Cloud & Big Data  🌟</p>
 
 ---
 
