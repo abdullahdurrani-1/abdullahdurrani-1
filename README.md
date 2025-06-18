@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Abdullah 👋</h1>
+<h1 align="center">Hi there, I'm Abdullah Durrani 👋</h1>
 <p align="center">🌟 Power BI Developer | Data Analyst | Agentic AI Explorer | Cloud & Big Data  🌟</p>
 
 ---
