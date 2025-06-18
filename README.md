@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <h1 align="center">Hi there, I'm Abdullah 👋</h1>
-<p align="center">🌟 Power BI Developer | Data Analyst | Agentic AI Explorer | Cloud & Big Data  🌟</p>
+<p align="center">🌟 Power BI Developer | Data Analyst | Agentic AI Explorer | Cloud & Big Data Enthusiast 🌟</p>
 
 ---
 
@@ -38,6 +36,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahdurrani-1&theme=tokyonight" />
 </p>
 
+### 🧮 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahdurrani-1&layout=compact&theme=tokyonight"/>
+</p>
+
 ---
 
 ## 🧩 Fun Fact
@@ -47,10 +51,21 @@
 
 ---
 
-## 📬 Connect with Me
+## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbdullahDurrani-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/abdullah-durrani-2299khan
+<p align="center">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/abdullah-durrani-2299khan
 
-)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duraniabdulah2299@gmail.com)
-
+" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-AbdullahDurrani-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/abdullahdurrani-1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-abdullahdurrani--1-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:your-duraniabdulah2299@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/abdulah_durani" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@yourusername-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
