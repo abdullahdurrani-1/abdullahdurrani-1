@@ -29,25 +29,8 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahdurrani-1&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahdurrani-1&theme=tokyonight" />
-</p>
 
-## 🧮 Top Languages & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Used-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-Used-in%20queries-lightblue?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-Used%20for%20viz-orange?style=for-the-badge&logo=tableau&logoColor=white"/>
-</p>
-
-<!-- GitHub default language usage -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahdurrani-1&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
